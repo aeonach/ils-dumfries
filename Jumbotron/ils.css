@@ -1,0 +1,131 @@
+body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.5;
+     
+  }
+  p {font-size: 14px;
+  	margin-bottom: .8em;
+  	margin-top: 0;
+  
+  }
+  .margin {margin-bottom: 1.2em;}
+  
+  .bg-1 { 
+      background-color: #ffffff; /* White */
+      color: #2f2f2f;
+  }
+  .bg-2 { 
+      background-color: #f8f8f8; /* Dark Blue */
+      color: #666;
+  }
+  .bg-3 { 
+      background-color: #ffffff; /* White */
+      color: #555555;
+  }
+  .bg-4 { 
+      background-color: #909090; /* Mid Gray */
+      color: #fff;
+  }
+  .bg-5 {
+  background-color: #f5f5f5;
+  color: #555;
+  }
+  .container-fluid {
+      padding-top: 40px;
+      padding-bottom: 40px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+  .RedHeadings {
+	color: #DB2E2D !important;
+}
+.Red {
+	color: #DB2D2E;
+	font-size: 100%;
+	font-weight: normal;
+}
+
+.TeamSub  {
+
+color: #000000;
+
+}
+
+.TeamName {
+
+}
+
+.TeamDiv {
+
+font-size: 9px;
+line-height: 5px;
+}
+
+.btnAlign {
+    vertical-align: bottom;
+}
+#NewsFlash {
+text-align: center;
+}
+
+
+/*Styles for the hr tags on the people page */
+.PeopleLge {
+border-color: #F00;
+width:80%;
+}
+
+.PeopleSml {
+border-color: #F00;
+width:5%;
+}
+/* ******** */
+
+
+.show-image {
+width: 40px;
+height: 40px;
+background: url(images/ILS_logo.gif);
+}
+
+.hide-text {
+text-indent: 100%; 
+white-space: nowrap;
+overflow: hidden;
+} 
+
+   .map {
+
+<<<<<<< HEAD
+        min-width: 300px;
+        min-height: 300px;
+=======
+        min-width: 280px;
+        min-height: 280px;
+>>>>>>> master
+        width: 100%;
+        height: 100%;
+    }
+
+.logo{
+   max-height: 100%;
+   height: 100%;
+   width: auto;
+   margin: 0 auto;
+
+
+   /* probably not needed anymore, but doesn't hurt */
+   -o-object-fit: contain;
+   object-fit: contain; 
+
+}

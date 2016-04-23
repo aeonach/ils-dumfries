@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ILSfont';
+    src: url('fonts/ILSfont.eot');
+    src: url('fonts/ILSfont.eot') format('embedded-opentype'),
+         url('fonts/ILSfont.woff2') format('woff2'),
+         url('fonts/ILSfont.woff') format('woff'),
+         url('fonts/ILSfont.ttf') format('truetype'),
+         url('fonts/ILSfont.svg#ILSfont') format('svg');
+}
