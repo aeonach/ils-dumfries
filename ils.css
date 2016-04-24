@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'ILSfont';
-    src: url('fonts/ILSfont.eot');
-    src: url('fonts/ILSfont.eot') format('embedded-opentype'),
-         url('fonts/ILSfont.woff2') format('woff2'),
-         url('fonts/ILSfont.woff') format('woff'),
-         url('fonts/ILSfont.ttf') format('truetype'),
-         url('fonts/ILSfont.svg#ILSfont') format('svg');
+    src: url('Fonts/ILSfont.eot');
+    src: url('Fonts/ILSfont.eot') format('embedded-opentype'),
+         url('Fonts/ILSfont.woff2') format('woff2'),
+         url('Fonts/ILSfont.woff') format('woff'),
+         url('Fonts/ILSfont.ttf') format('truetype'),
+         url('Fonts/ILSfont.svg#ILSfont') format('svg');
 }
 
 body {
